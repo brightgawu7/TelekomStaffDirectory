@@ -1,0 +1,152 @@
+[
+    {
+      "id": "0b5f3248-5b29-4d29-b054-87e09c2a39ad",
+      "name": "Jonathan Alexander Morales",
+      "location": "San Francisco, California",
+      "team": {
+        "id": "8f6e676e-4316-452d-8a5a-61d5985363ad",
+        "name": "Enterprise Innovation Team",
+        "isInternal": true
+      },
+      "isTeamInternal": true,
+      "address": "1234 Market Street, San Francisco, CA 94103",
+      "image": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg",
+      "email": "jonathan.morales@company.com",
+      "phone": "+1-234-567-8901"
+    },
+    {
+      "id": "842654b9-819d-48b0-8a62-5bbfdc0fb497",
+      "name": "Samantha Victoria Reynolds",
+      "location": "Austin, Texas",
+      "team": {
+        "id": "8f6e676e-4316-452d-8a5a-61d5985363ad",
+        "name": "Enterprise Innovation Team",
+        "isInternal": true
+      },
+      "isTeamInternal": true,
+      "address": "5678 Barton Springs Road, Austin, TX 78704",
+      "image": "https://images.pexels.com/photos/445109/pexels-photo-445109.jpeg",
+      "email": null,
+      "phone": "+1-512-555-7890"
+    },
+    {
+      "id": "73a9e8c7-63b5-4c77-8e5c-f308d7f627b5",
+      "name": "Benjamin Christopher Diaz",
+      "location": "New York, New York",
+      "team": {
+        "id": "0bb17367-8d73-4a55-8e10-5ad09d42077f",
+        "name": "Advanced Analytics Group",
+        "isInternal": false
+      },
+      "isTeamInternal": false,
+      "address": "1012 Fifth Avenue, New York, NY 10028",
+      "image": "https://images.pexels.com/photos/845457/pexels-photo-845457.jpeg",
+      "email": null,
+      "phone": null
+    },
+    {
+      "id": "ca7297b3-6d7c-47a7-94f1-67b750f13cf3",
+      "name": "Gabriella Isabella Washington",
+      "location": "Seattle, Washington",
+      "team": {
+        "id": "8f6e676e-4316-452d-8a5a-61d5985363ad",
+        "name": "Enterprise Innovation Team",
+        "isInternal": true
+      },
+      "isTeamInternal": true,
+      "address": "9876 Pine Street, Seattle, WA 98101",
+      "image": "https://images.pexels.com/photos/1848565/pexels-photo-1848565.jpeg",
+      "email": "gabriella.washington@company.com",
+      "phone": null
+    },
+    {
+      "id": "35c40b7b-dffb-45aa-b7d3-b93aa2139b62",
+      "name": "Michael Anthony Bennett",
+      "location": "Chicago, Illinois",
+      "team": {
+        "id": "e44fcde5-1e10-42b2-8dbe-d627de65f7cc",
+        "name": "Global Business Development",
+        "isInternal": false
+      },
+      "isTeamInternal": false,
+      "address": "456 Elm Street, Chicago, IL 60611",
+      "image": "https://images.pexels.com/photos/819530/pexels-photo-819530.jpeg",
+      "email": "michael.bennett@company.com",
+      "phone": null
+    },
+    {
+      "id": "7b7a5f38-9a18-4f5b-a482-2c6853546d39",
+      "name": "Charlotte Sophia Mitchell",
+      "location": "Atlanta, Georgia",
+      "team": {
+        "id": "e44fcde5-1e10-42b2-8dbe-d627de65f7cc",
+        "name": "Global Business Development",
+        "isInternal": false
+      },
+      "isTeamInternal": false,
+      "address": "654 Peachtree Road, Atlanta, GA 30305",
+      "image": "https://images.pexels.com/photos/713520/pexels-photo-713520.jpeg",
+      "email": "charlotte.mitchell@company.com",
+      "phone": "+1-404-555-6789"
+    },
+    {
+      "id": "b563e626-4b5d-481b-bcde-dc2066b2a1d4",
+      "name": "Daniel Edward Thompson",
+      "location": "Boston, Massachusetts",
+      "team": {
+        "id": "0bb17367-8d73-4a55-8e10-5ad09d42077f",
+        "name": "Advanced Analytics Group",
+        "isInternal": false
+      },
+      "isTeamInternal": false,
+      "address": "789 Commonwealth Avenue, Boston, MA 02215",
+      "image": "https://images.pexels.com/photos/783941/pexels-photo-783941.jpeg",
+      "email": "daniel.thompson@company.com",
+      "phone": null
+    },
+    {
+      "id": "e8e3e108-c3c2-4908-9a6b-1d8079cfd5d8",
+      "name": "Olivia Grace Anderson",
+      "location": "Denver, Colorado",
+      "team": {
+        "id": "8f6e676e-4316-452d-8a5a-61d5985363ad",
+        "name": "Enterprise Innovation Team",
+        "isInternal": true
+      },
+      "isTeamInternal": true,
+      "address": "2347 Broadway, Denver, CO 80205",
+      "image": "https://images.pexels.com/photos/415263/pexels-photo-415263.jpeg",
+      "email": null,
+      "phone": "+1-303-555-9012"
+    },
+    {
+      "id": "4d42bc71-0d87-45b1-8038-3d3e49e23f1e",
+      "name": "William Henry Robinson",
+      "location": "Miami, Florida",
+      "team": {
+        "id": "e44fcde5-1e10-42b2-8dbe-d627de65f7cc",
+        "name": "Global Business Development",
+        "isInternal": false
+      },
+      "isTeamInternal": false,
+      "address": "987 Biscayne Boulevard, Miami, FL 33132",
+      "image": "https://images.pexels.com/photos/18495/pexels-photo.jpg",
+      "email": null,
+      "phone": "+1-305-555-6789"
+    },
+    {
+      "id": "8b9f4e3c-429d-4c59-b516-ef16e27b42a4",
+      "name": "Emily Abigail Martinez",
+      "location": "Las Vegas, Nevada",
+      "team": {
+        "id": "0bb17367-8d73-4a55-8e10-5ad09d42077f",
+        "name": "Advanced Analytics Group",
+        "isInternal": false
+      },
+      "isTeamInternal": false,
+      "address": "5678 Fremont Street, Las Vegas, NV 89101",
+      "image": "https://images.pexels.com/photos/1035682/pexels-photo-1035682.jpeg",
+      "email": null,
+      "phone": null
+    }
+  ]
